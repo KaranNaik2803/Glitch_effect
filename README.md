@@ -1,4 +1,4 @@
-# Glitch_effect
+# Glitch Effect
 
 <i>This repository showcases a visually appealing glitch effect using HTML and CSS.
 The animation simulates a distorted, glitchy transition often seen in digital media. 
